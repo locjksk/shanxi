@@ -32,6 +32,7 @@
 	position: relative;
 }
 
+	
 .add-img {
 	position: absolute;
 	bottom: 15%;
